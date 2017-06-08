@@ -1,0 +1,28 @@
+{
+  "name": "node-web-crawler",
+  "version": "1.0.0",
+  "description": "A sample node web crawler app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artigenceinc/node-web-crawler.git"
+  },
+  "keywords": [
+    "node",
+    "crawler"
+  ],
+  "author": "Vivek Wisdom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artigenceinc/node-web-crawler/issues"
+  },
+  "homepage": "https://github.com/artigenceinc/node-web-crawler#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
