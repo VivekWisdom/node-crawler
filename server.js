@@ -7,7 +7,7 @@ var app = express();
 var finalPosts = [];
 app.get('/', function(req, res, next) {
     //All the crawl code comes here.
-    url = "https://futurism.com/";
+    url = "https://futurism.com/artificialintelligence/";
     request(url, function(error, response, html) {
         var json = {};
         
@@ -35,7 +35,7 @@ app.get('/', function(req, res, next) {
         fs.writeFile('output.json', JSON.stringify(finalPosts, null, 4), function(err) {
             console.log('File Successfully Written Check your output.json file.');
         });
-        return res.redirect('/posts');
+        
     })
 });
 
