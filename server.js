@@ -7,7 +7,7 @@ var app = express();
 var finalPosts = [];
 app.get('/', function(req, res, next) {
     //All the crawl code comes here.
-    url = "https://futurism.com/artificialintelligence/";
+    url = "https://futurism.com/";
     request(url, function(error, response, html) {
         var json = {};
         

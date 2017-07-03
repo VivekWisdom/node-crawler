@@ -1,52 +1,111 @@
 [
     {
-        "postTitle": "Artificial Intelligences are Quickly Becoming Better Artists",
-        "postUrl": "https://futurism.com/85493-2/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "Avatar Sequels Could Be Shown in 3D That Doesn’t Require Glasses",
+        "postUrl": "https://futurism.com/avatar-sequels-could-be-shown-in-3d-that-doesnt-require-glasses/",
+        "postCategory": "Virtuality"
     },
     {
-        "postTitle": "An AI Can Now Predict How Much Longer You’ll Live",
-        "postUrl": "https://futurism.com/an-ai-can-now-predict-how-much-longer-youll-live/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "",
+        "postCategory": "Sponsored"
     },
     {
-        "postTitle": "Experts Weigh in on AI and the Singularity",
-        "postUrl": "https://futurism.com/experts-weigh-in-on-ai-and-the-singularity/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "The Cost of Solar Will Drop Another 25% by 2022",
+        "postUrl": "https://futurism.com/the-cost-of-solar-will-drop-another-25-by-2022/",
+        "postCategory": "Earth & Energy"
     },
     {
-        "postTitle": "Five Examples of AI Dominating Humans in the World of Gaming",
-        "postUrl": "https://futurism.com/five-examples-of-ai-dominating-humans-in-the-world-of-gaming/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "MIT Scientist Asserts That We Will Have Fusion Energy by 2030",
+        "postUrl": "https://futurism.com/mit-scientist-asserts-that-we-will-have-fusion-energy-by-2030/",
+        "postCategory": "Earth & Energy"
     },
     {
-        "postTitle": "Draw a Doodle of a Face, and Watch This AI Image Generator Make It Look More “Human”",
-        "postUrl": "https://futurism.com/draw-a-doodle-of-a-face-and-watch-this-ai-image-generator-make-it-look-more-human/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "The World’s Top Sci-Fi Writers Predict What the World Will Look Like in 20 Years",
+        "postUrl": "https://futurism.com/the-worlds-top-sci-fi-writers-predict-what-the-world-will-look-like-in-20-years/",
+        "postCategory": "Sci-Fi Visions"
     },
     {
-        "postTitle": "Elon Musk Thinks AI Will Beat Humans at Everything by 2030",
-        "postUrl": "https://futurism.com/elon-musk-thinks-ai-will-beat-humans-at-everything-by-2030/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "Snake Robots Could Allow Us to Explore the Caverns of Mars",
+        "postUrl": "https://futurism.com/snake-robots-could-allow-us-to-explore-the-caverns-of-mars/",
+        "postCategory": "Off World"
     },
     {
-        "postTitle": "An Israeli AI Company Is Giving Machines The Gift Of Sight",
-        "postUrl": "https://futurism.com/an-israeli-ai-company-is-giving-machines-the-gift-of-sight/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "It’s Official. China Is Launching A “War on Pollution”",
+        "postUrl": "https://futurism.com/its-official-china-is-launching-a-war-on-pollution/",
+        "postCategory": "Earth & Energy"
     },
     {
-        "postTitle": "Ray Kurzweil’s Most Exciting Predictions About the Future of Humanity",
-        "postUrl": "https://futurism.com/ray-kurzweils-most-exciting-predictions-about-the-future-of-humanity/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "The Public Doesn’t Trust Science. It’s 2017. We Need to Fix This.",
+        "postUrl": "https://futurism.com/still-writing-expert-the-public-doesnt-trust-science-heres-how-we-could-change-that/",
+        "postCategory": "Future Society"
     },
     {
-        "postTitle": "Apple Just Unveiled A Breakthrough Artificial Intelligence System",
-        "postUrl": "https://futurism.com/apple-just-unveiled-a-breakthrough-artificial-intelligence-system/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "You Can Hail This Flying Taxi from Your Phone",
+        "postUrl": "https://futurism.com/videos/you-can-hail-this-flying-taxi-from-your-phone/",
+        "postCategory": "Robots & Machines"
     },
     {
-        "postTitle": "Should We Give AIs the Same Rights as Humans?",
-        "postUrl": "https://futurism.com/should-we-give-ais-the-same-rights-as-humans/",
-        "postCategory": "Artificial Intelligence"
+        "postTitle": "Scientists Want to Genetically Engineer Heat-Resistant Cows to Survive Climate Change",
+        "postUrl": "https://futurism.com/scientists-want-to-genetically-engineer-heat-resistant-cows-to-survive-climate-change/",
+        "postCategory": "Earth & Energy"
+    },
+    {
+        "postTitle": "Vertical Farming Is Officially Coming to Grocery Stores",
+        "postUrl": "https://futurism.com/vertical-farming-is-officially-coming-to-grocery-stores/",
+        "postCategory": "Future Society"
+    },
+    {
+        "postTitle": "Energy-Generating Pavement Just Became a Reality in London",
+        "postUrl": "https://futurism.com/energy-generating-pavement-just-became-a-reality-in-london/",
+        "postCategory": "Earth & Energy"
+    },
+    {
+        "postTitle": "A Startup Wants to Launch Over 700 Satellites to Bring Internet to Rural Areas",
+        "postUrl": "https://futurism.com/a-startup-wants-to-launch-over-700-satellites-to-bring-internet-to-rural-areas/",
+        "postCategory": "Future Society"
+    },
+    {
+        "postTitle": "Why A Cash-less Future is Becoming A Closer Reality Every Day",
+        "postUrl": "https://futurism.com/why-a-cash-less-future-is-becoming-a-closer-reality-every-day/",
+        "postCategory": "Future Society"
+    },
+    {
+        "postTitle": "China Has Officially Started Construction on the World’s First “Forest City”",
+        "postUrl": "https://futurism.com/china-has-officially-started-construction-on-the-worlds-first-forest-city/",
+        "postCategory": "Future Society"
+    },
+    {
+        "postTitle": "New Drone Plans an Ambitious Mission to Plant 100,000 Trees a Day",
+        "postUrl": "https://futurism.com/new-drone-plans-on-ambitious-mission-to-plant-100000-trees-a-day/",
+        "postCategory": "Earth & Energy"
+    },
+    {
+        "postTitle": "Meet the House That Can Produce More Energy Than It Consumes",
+        "postUrl": "https://futurism.com/meet-the-house-that-can-produce-more-energy-than-it-consumes/",
+        "postCategory": "Future Society"
+    },
+    {
+        "postTitle": "This House Can Save You 90% on Your Heating and Electric Bills",
+        "postUrl": "https://futurism.com/videos/this-house-can-save-you-90-on-your-heating-and-electric-bills/",
+        "postCategory": "Earth & Energy"
+    },
+    {
+        "postTitle": "The Reason Why Time Only Travels in One Direction",
+        "postUrl": "https://futurism.com/videos/the-reason-why-time-only-travels-in-one-direction/",
+        "postCategory": "Hard Science"
+    },
+    {
+        "postTitle": "Ethereum is Up 4000% This Year, And The World’s Elite Are All Buying In",
+        "postUrl": "https://futurism.com/ethereum-is-up-4000-this-year-and-the-worlds-elite-are-all-buying-in/",
+        "postCategory": "Future Society"
+    },
+    {
+        "postTitle": "Why a Respected CEO Believes “Bitcoin Is a Tool for Freeing Humanity”",
+        "postUrl": "https://futurism.com/why-a-respected-ceo-believes-bitcoin-is-a-tool-for-freeing-humanity/",
+        "postCategory": "Future Society"
+    },
+    {
+        "postTitle": "These Incredible Images Reveal the Evolution of NYC",
+        "postUrl": "https://futurism.com/incredible-images-reveal-evolution-nyc/",
+        "postCategory": "Future Society"
     }
 ]
